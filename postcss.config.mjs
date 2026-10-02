@@ -1,1 +1,8 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíãÄèµ©hºÚn¶X§zÍKÊŠˆ_í¢G§²ÚîÆ­yĞconfig
+/** @type {import('postcss-load-config').Config} */
+const config = {
+  plugins: {
+    '@tailwindcss/postcss': {},
+  },
+}
+
+export default config

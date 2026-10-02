@@ -1,2 +1,16 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×“¢Ö¥¢ëiºÙbë5{
-  "namwîÚ$z{-®éÜj×¢Ğ§Ğ
+{
+  "name": "Bernie's Burger Night Â· Oak Dam Village",
+  "short_name": "Bernie's Burgers",
+  "description": "Build your perfect burger for Bernie's Burger Night at Oak Dam Village. Powered by ISS.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a160f",
+  "theme_color": "#1a160f",
+  "icons": [
+    {
+      "src": "/bernies-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
